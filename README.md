@@ -1,1 +1,29 @@
-# UNIS3X
+# Login
+
+Token
+
+Chokies
+
+# install
+
+pkg update && pkg upgrade
+
+pkg install python2 
+
+pkg install git 
+
+pip2 install mechanize
+
+pip2 install bs4
+
+pip2 install requests
+
+git clone https://github.com/ROMI-AFRZL/UNIS3X
+
+# run scrif
+
+cd UNIS3X
+
+ls
+
+python2 UNIS3X.py
