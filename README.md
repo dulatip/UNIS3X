@@ -18,7 +18,7 @@ pip2 install bs4
 
 pip2 install requests
 
-git clone https://github.com/ROMI-AFRZL/UNIS3X
+git clone https://github.com/dulatip/UNIS3X
 
 # run scrif
 
